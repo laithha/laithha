@@ -5,6 +5,9 @@
     <a href="https://linkedin.com/in/laith-haj-107829339/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://www.instagram.com/1.vnzz/profilecard/?igsh=MTBieDZ5cjEwaXRkMQ==">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
     <img src="https://komarev.com/ghpvc/?username=Laith&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
@@ -21,7 +24,9 @@
 I am a Computer Science student at UBB University in Cluj.  
 - :snake: I enjoy coding in Python.  
 - :seedling: Constantly learning and growing.  
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/laith-haj-107829339/)
+- :mailbox: How to reach me:  
+  - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/laith-haj-107829339/)  
+  - [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/1.vnzz/profilecard/?igsh=MTBieDZ5cjEwaXRkMQ==)
 
 <div>
     <h2 align="center">Languages and Tools</h2>
